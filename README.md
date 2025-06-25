@@ -1,2 +1,16 @@
 # 11koma
-壽福瑠斗
+<jufuku>
+<p></p>
+</jufuku>
+
+<iwanaga>
+<p></p>
+</iwanaga>
+
+<inada>
+<p></p>
+</inada>
+
+<yosida>
+<p></p>
+</yosida>
